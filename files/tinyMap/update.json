@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "jQuery.tinyMap",
+  "repo": "essoduke/jQuery-tinyMap",
+  "files": {
+    "include": ["jquery.tinyMap.js", "jquery.tinyMap.min.js"]
+  }
+}
